@@ -40,6 +40,7 @@ public class CalculatorTest {
 		assertArrayEquals(stepThisNumber(5, 2), new int[] { 3, 1 });
 		assertArrayEquals(stepThisNumber(12, 3), new int[] { 9, 6, 3 });
 		System.out.println("1P");
+		
 	}
 
 	@Test
